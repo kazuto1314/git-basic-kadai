@@ -1,0 +1,10 @@
+PS C:\Users\81702> cd C:\Users\81702\git_challenge
+PS C:\Users\81702\git_challenge> git log --oneline
+f5574a5 (HEAD -> main, origin/main) add kadai_005 directory with assigment file
+15e4d25 こんにちは、世界！
+a50036f Hello world!
+PS C:\Users\81702\git_challenge> git log --pretty=oneline hello_world.txt
+f5574a5f883d8fb29aa4f62c3dcd0411bcb94cbc (HEAD -> main, origin/main) add kadai_005 directory with assigment file
+15e4d25baa721ef23a55b7007615ac5ec9a4ab08 こんにちは、世界！
+a50036f6f7f280ec5031095e317191e94e30a32d Hello world!
+PS C:\Users\81702\git_challenge> 
